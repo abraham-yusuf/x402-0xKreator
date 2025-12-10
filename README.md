@@ -42,13 +42,11 @@ pnpm install
 bun install
 ```
 
-2. Install and build all packages from the typescript examples root:
+2. Clone, Install and build all packages from the typescript root:
 
 ```bash
-cd ../../
+cd x402-0xKreator
 pnpm install
-pnpm build
-cd fullstack/x402-0xKreator
 ```
 
 3. Copy environment variables:
